@@ -1,0 +1,19 @@
+# docker
+Dockerfile
+.dockerignore
+
+# pycache
+__pycache__
+
+# vectorize models
+models/
+
+# vscode
+.vscode/
+
+# poetry
+poetry.lock
+
+
+# Mac
+.DS_Store

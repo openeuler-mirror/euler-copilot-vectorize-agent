@@ -1,0 +1,25 @@
+# pycache
+__pycache__
+
+# vectorize models
+models/
+
+# vscode
+.vscode/
+
+# poetry
+poetry.lock
+
+# key file
+*.crt
+*.key
+
+# other
+.env
+start.sh
+
+# Mac
+.DS_Store
+
+vectorize_agent/utils/init
+.idea/
